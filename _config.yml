@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+title: MS&E 228: Applied Causal Inference Power by Machine Learning and AI
+tagline: Blending machine learning with causal inference
+description: A course on recent techniques at the intersection of causal inference and machine learning
+author: Vasilis Syrgkanis, Johannes Ferstad, Hui Lan
+baseurl: '/winter23' # the subpath of your site, e.g. /blog
+url: 'https://stanford-msande228.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
