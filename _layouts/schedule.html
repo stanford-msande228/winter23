@@ -24,6 +24,9 @@
           {% if event.location %}
           <div class="location">{{ event.location }}</div>
           {% endif %}
+          {% if event.staff %}
+          <div class="location">{{ event.staff }}</div>
+          {% endif %}
         </li>
       {% endfor %}
       </ul>
