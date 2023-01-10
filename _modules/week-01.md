@@ -17,7 +17,3 @@ Jan 12
 Survey
 : Please complete the background survey by the end of Week 1
   : [Link](https://forms.gle/s3SCNWmsYYayhbtN9)
-
-Jan 13
-: **Homework**{: .label .label-blue } HW1 Released
-  : [canvas](https://canvas.stanford.edu/)
