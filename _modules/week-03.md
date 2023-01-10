@@ -8,7 +8,7 @@ Jan 24
 : double lasso; partialling out; intro to Neyman orthogonality
 
 Jan 26
-: **Lecture**{: .label .label-green } Causality in observational data
+: **Lecture**{: .label .label-purple } Causality in observational data
 : confounding; conditional ignorability; identification by conditioning; identification via propensity scores
 
 
