@@ -106,6 +106,33 @@ You are encouraged to attend office hours to ask questions of a technical nature
 If you are having difficulty, we urge you to seek help from the TAs or the instructor as soon as possible. The material builds on itself and a solid understanding of the foundations is necessary for the rest of the course. Remember, the teaching team is here to serve as a resource for any questions you may have.
 
 
+### Inclusion
+
+It is our intent that students from a diverse set of backgrounds and with a wide range of perspectives be well served by this course; that students’ learning needs are being addressed both in and out of class; and that the diversity that students bring to this class becomes a resource, strength, and benefit to all of us. We try to present materials and lead discussions that are respectful of the diversity in our student population. Your suggestions are encouraged and appreciated; please let us know of ways to improve the effectiveness of the course for you personally or for other students or student groups. 
+
+Unfortunately, incidents of bias, discrimination, or intolerance do occur, whether intentional or unintentional. They can contribute to creating an unwelcoming environment for individuals and groups in the classroom. Please speak out if such an event occurs and we will do our best to handle it accordingly. You can reach out to the teaching team directly or bring the concerns to the University’s [Diversity and Access Office](https://diversityandaccess.stanford.edu/reporting-discrimination-concern) and Acts of Intolerance to [Student Affairs](https://deanofstudents.stanford.edu/acts-intolerance-protocol/acts-intolerance-reporting-procedure).
+
+# Suggested textbooks
+
+Course lecture notes will be posted online in the form of powerpoint presentations. In addition accompanying chapters of a course textbook will be released on Canvas. Any feedback on slides and the course textbook will be greatly appreciated as we iterate over the material. These are the primary material for the course.  In addition, you may find it helpful to have the following textbooks on hand. I’m not requiring them, because they are available online, and we will not be linearly working our way through any of them. 
+
+* Hernan MA, Robins JM, [Causal Inference: What If](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2022/12/hernanrobins_WhatIf_20dec22.pdf)
+* Scott Cunningham, [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
+* Shai Shalev-Shwartz and Shai Ben-David, [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+
+# Other references
+
+Here is an assortment of other books that you may find useful to consult but which are not available online.
+
+* Judea Pearl, [Causality](http://bayes.cs.ucla.edu/BOOK-2K/)
+* Pearl, Glymour, Jewell, [Causal Inference in Statistics](http://bayes.cs.ucla.edu/PRIMER/)
+* Pearl, Mackenzie, [The Book of WHY: the new science of cause and effect](http://bayes.cs.ucla.edu/WHY/)
+* Peters, Janzing, Schölkopf, [Elements of Causal Inference](https://mitpress.mit.edu/9780262037310/elements-of-causal-inference/)
+* Matt Taddy, [Business Data Science](https://www.amazon.com/Business-Data-Science-Combining-Accelerate/dp/1260452778)
+* Kohavi, Tang, and Xu, [Trustworthy Online Controlled Experiments](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264)
+* Imbens and Rubin, [Causal Inference for Statistics, Social, and Biomedical Sciences](http://www.cambridge.org/US/academic/subjects/statistics-probability/statistical-theory-and-methods/causal-inference-statistics-social-and-biomedical-sciences-introduction)
+* Angrist and Pischke, [Mostly Harmless Econometrics](http://www.mostlyharmlesseconometrics.com/)
+
 # Course Plan
 
 **Lecture 1:** Introduction; case studies; importance of causality; importance of handling high dimensional data/flexible modeling;
@@ -179,7 +206,7 @@ If you are having difficulty, we urge you to seek help from the TAs or the instr
 
 **Lecture 19:** More structural approaches to un-observed confounding: diff-in-diff; synthetic controls; regression discontinuity (soft RD); proximal inference
 
-**Lecture 20:** Helicopter tour of current software ecosystem for causal machine learning; A helicopter tour of what we did not cover in the course: active experiments
+**Lecture 20:** TBA
 
 
 
