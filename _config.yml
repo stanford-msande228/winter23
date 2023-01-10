@@ -19,7 +19,7 @@ description: A course on recent techniques at the intersection of causal inferen
 author: Vasilis Syrgkanis, Johannes Ferstad, Hui Lan
 baseurl: '/winter23' # the subpath of your site, e.g. /blog
 url: 'https://stanford-msande228.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc4
