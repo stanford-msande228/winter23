@@ -10,7 +10,7 @@ seo:
 
 # Welcome to MS&E 228 – Applied Causal Inference Powered by ML and AI
 
-Instructor: Vasilis Syrgkanis  
+Instructor: Vasilis Syrgkanis, Assistant Professor, MS&E  
 Units: 3  
 Winter Quarter 2023  
 Tue, Thu 1:30-2:50PM McCullough 115
@@ -18,7 +18,7 @@ Tue, Thu 1:30-2:50PM McCullough 115
 **Description:**  
 The course will cover fundamentals of modern applied causal inference. Basic principles of causal inference and machine learning and how the two can be combined in practice to deliver causal insights and policy implications in real world datasets, allowing for high-dimensionality and flexible estimation. Lectures will provide foundations of these new methodologies and the course assignments will involve real world data and synthetic data analysis based on these methodologies. 
 
-**Prerequisites:** Basic knowledge of probability and statistics. Recommended: 226 or equivalent.
+**Prerequisites:** Basic knowledge of probability and statistics. Recommended: MS&E 226 or equivalent.
 
 ### Office Hours:  (Starting Week 2)
 
@@ -30,20 +30,83 @@ The course will cover fundamentals of modern applied causal inference. Basic pri
 
  
 
-### Format:
+### Format
 
-The course will consist of lectures and students-led discussions. The lectures will cover fundamentals that fuse classical structural equation models (SEMs) and DAGs, with tools for statistical inference based on machine learning  (lasso, random forest, deep neural networks)  to infer causal parameters and quantify uncertainty. Grading will be primarily based on the weekly homework assignments and secondarily on class participation. There will be a total of 7-8 homeworks, rolled out roughly on a weekly basis, that will involve either mathematical proofs or coding exercises.
+The course will consist of lectures and students-led discussions. Lectures will be help in person and will not be recorded. The lectures will cover fundamentals that fuse classical structural equation models (SEMs) and DAGs, with tools for statistical inference based on machine learning  (lasso, random forest, deep neural networks)  to infer causal parameters and quantify uncertainty. Grading will be primarily based on the weekly homework assignments and secondarily on class participation. There will be a total of 7-8 homeworks, rolled out roughly on a weekly basis, that will involve either mathematical proofs or coding exercises.  
 
  
 
-### Grading:
+### Grading
 
 * Homework 90%
 * Participation 10%
 
- 
+### Course webpages
 
-# Course Plan:
+* Discussion and homework material: [canvas](https://canvas.stanford.edu/)
+* Submissions: [gradescope](https://www.gradescope.com/courses/486969/)
+
+
+### Problem sets
+
+There will be a total of 7 or 8 problem sets. Problem sets must be submitted online through Gradescope [gradescope](https://www.gradescope.com/courses/486969/).  Problem set sheets will also be posted on Canvas.
+
+Depending on their length, the total number of points in each set might vary. Each part of each problem will be graded as follows:
+* You will receive zero points if you do not attempt it.
+* If you attempt it, but there are either substantial methodological errors or major conceptual misunderstandings of the material, you will receive 2 points.
+* If you attempt it and there are no substantial methodological errors or major conceptual misunderstandings of the material, you will receive 3 points.
+We expect students who make a reasonable effort, even if not perfect, will receive 3 points. Receiving 2 points is intended to be a sign of significant comprehension issues and should only happen in cases where you haven’t been able to keep up with the material.  Since you can get full credit without having been perfect, you should make sure to read the solutions to aid your comprehension of the material.
+
+We encourage discussion of assignments with other classmates, but everybody must turn in their own written solutions in their own words. If you do a substantial subset of the work on your problem set with others, you must document on each assignment the other students that you worked with.  You may work in pairs on coding portions of the assignments, but again, please make sure to clarify in your submission who you collaborated with; if you turn in the same code as someone else, without noting the collaboration, it will be considered an Honor Code violation.  (See also the section on the Honor Code below.)
+
+
+### Computation
+Many of the problem sets, as well as the guided project, will require you to be comfortable carrying out computations on data.  Note that the “official” course language will be python: this is what we use for our problem sets, in our lectures and discussion sections, and the language we support in office hours.
+
+We will provide links to python on the website, as well as any datasets that are needed through the course of the quarter. You can find notebooks that will be used throughout the class in python and R in this github repo: [https://github.com/CausalAIBook/MetricsMLNotebooks](https://github.com/CausalAIBook/MetricsMLNotebooks).
+
+As noted above, you are welcome to work in pairs on any computational component in the class, and on the project.  In addition, you are welcome to use another language (e.g., R), for the project, but note that the course staff is only responsible to provide technical support for python.  
+
+**Late day policy**
+
+To accommodate unforeseen challenges that may arise during the quarter, you have three late days for the problem sets.  Each late day allows you to turn in an assignment up to 24 hours late.  (Any fraction of a late day counts as one late day.)  You may use multiple late days on the same problem set. Work submitted beyond the allowed late days will not receive credit.
+
+Please note that we have provided the late day policy to help provide flexibility to you in managing your course load during the quarter.  If circumstances arise that require further accommodations, we encourage you to contact your academic advisor as well as the Office of Accessible Education (see below) to help make appropriate arrangements.  Out of fairness to all students, in the absence of an OAE Academic Accommodation Letter, we will generally be unable to provide accommodations beyond the late day policy above.
+
+### Access and accommodations
+
+Stanford and our class are committed to providing equal educational opportunities for disabled students. Disabled students are a valued and essential part of the Stanford community. We welcome you to MS&E 228.
+
+If you experience disability, please register with the Office of Accessible Education (OAE). Professional staff will evaluate your needs, support appropriate and reasonable accommodations, and prepare an Academic Accommodation Letter for faculty (not only for your teaching staff in MS&E 226, but also your other courses). To get started, or to re-initiate services, please visit [oae.stanford.edu](oae.stanford.edu).
+
+If you already have an Academic Accommodation Letter from OAE, we invite you to share your letter with us. Academic Accommodation Letters should be shared at the earliest possible opportunity so we may partner with you and OAE to identify any barriers to access and inclusion that might be encountered in your experience of this course.
+
+### Honor code
+
+Your work on problem sets and the project is governed by the [Stanford Honor Code](https://advising.stanford.edu/current-students/advising-student-handbook/honor-code).  Any violations of the Honor Code will be referred to the Office of Community Standards for adjudication.
+
+### Submitting on Gradescope 
+
+As noted above, problem sets and project submissions are submitted and graded through Gradescope. To ensure this process is smooth, there are a few things to keep in mind:
+* You are required to tag your answers correctly. The graders will ignore any part of your solution that is not tagged. Note that this means you also have to correctly tag your code.  Allow enough time prior to submission to ensure you are able to tag correctly.
+* In order to grade code you submitted, we need to be able to copy your code. Make sure this is possible (e.g., do not upload screenshot images of your code). We will deduct points if we cannot check your code.
+* If you believe we have made a mistake grading your work, you should submit a regrade request through Gradescope. This sends your request directly to the grader on that particular question. You must submit your regrade request within 14 days of the grades of that particular problem set or project part being published.
+
+
+### Course communications: Ed Discussion
+
+As noted above, we will use Ed Discussion to manage course announcements and a discussion forum.  Ed Discussion will be available through Canvas.
+
+Please use Ed Discussion for all course-related communication with us.  We will aim to respond to questions in a 24-48 hour period, except of course for those of an urgent nature (e.g., typos on problem sets or lecture notes, clarifying course logistics, etc.).  We encourage students to respond to each other, particularly during this “waiting period” before course staff answers!  Among other things this waiting period means you should not wait until the last day before a problem set is due to message us; we may not be able to respond in time.
+
+### Office hours
+
+You are encouraged to attend office hours to ask questions of a technical nature. Office hours will be held in-person.  Our goal is to foster an inclusive environment for additional learning support during office hours.
+
+If you are having difficulty, we urge you to seek help from the TAs or the instructor as soon as possible. The material builds on itself and a solid understanding of the foundations is necessary for the rest of the course. Remember, the teaching team is here to serve as a resource for any questions you may have.
+
+
+# Course Plan
 
 **Lecture 1:** Introduction; case studies; importance of causality; importance of handling high dimensional data/flexible modeling;
 
@@ -117,3 +180,6 @@ The course will consist of lectures and students-led discussions. The lectures w
 **Lecture 19:** More structural approaches to un-observed confounding: diff-in-diff; synthetic controls; regression discontinuity (soft RD); proximal inference
 
 **Lecture 20:** Helicopter tour of current software ecosystem for causal machine learning; A helicopter tour of what we did not cover in the course: active experiments
+
+
+
