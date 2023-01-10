@@ -4,7 +4,7 @@ title: Week 3
 Jan 24
 : **Homework**{: .label .label-red } HW1 Due
   : [gradescope](https://www.gradescope.com/courses/486969/)
-: **Lecture**{: .label .label-purple } Inference in high-dimensional models
+: **Lecture**{: .label .label-purple } Inference in high-dimensional linear models
 : double lasso; partialling out; intro to Neyman orthogonality
 
 Jan 26
