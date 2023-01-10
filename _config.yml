@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 'MSANDE 228: Applied Causal Inference Power by Machine Learning and AI'
-tagline: Blending machine learning with causal inference
+title: 'MS&E228'
+tagline: Applied Causal Inference Powered by ML and AI
 description: A course on recent techniques at the intersection of causal inference and machine learning
 author: Vasilis Syrgkanis, Johannes Ferstad, Hui Lan
 baseurl: '/winter23' # the subpath of your site, e.g. /blog
