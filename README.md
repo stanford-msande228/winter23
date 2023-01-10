@@ -1,29 +1,119 @@
-# Just the Class
+---
+layout: home
+title: Syllabus
+nav_exclude: false
+permalink: /:path/
+seo:
+  type: Course
+  name: MS&E 228 – Applied Causal Inference Powered by ML and AI
+---
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+# Welcome to MS&E 228 – Applied Causal Inference Powered by ML and AI
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+Instructor: Vasilis Syrgkanis  
+Units: 3  
+Winter Quarter 2023  
+Tue, Thu 1:30-2:50PM McCullough 115
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+**Description:**  
+The course will cover fundamentals of modern applied causal inference. Basic principles of causal inference and machine learning and how the two can be combined in practice to deliver causal insights and policy implications in real world datasets, allowing for high-dimensionality and flexible estimation. Lectures will provide foundations of these new methodologies and the course assignments will involve real world data and synthetic data analysis based on these methodologies. 
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+**Prerequisites:** Basic knowledge of probability and statistics. Recommended: 226 or equivalent.
 
-## Getting Started
+### Office Hours:  (Starting Week 2)
 
-Getting started with Just the Class is simple.
+|                   | Time                       | Location  |
+|-------------------|----------------------------|-----------|
+| Vasilis Syrgkanis | Thursday 3-4pm             | Huang 252 |
+| Johannes Ferstad  | Tuesdays 3-4pm             | TBA       |
+| Hui Lan           | Wednesdays 9:30 - 10:30 am | TBA       |
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+ 
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+### Format:
 
-### Local development environment
+The course will consist of lectures and students-led discussions. The lectures will cover fundamentals that fuse classical structural equation models (SEMs) and DAGs, with tools for statistical inference based on machine learning  (lasso, random forest, deep neural networks)  to infer causal parameters and quantify uncertainty. Grading will be primarily based on the weekly homework assignments and secondarily on class participation. There will be a total of 7-8 homeworks, rolled out roughly on a weekly basis, that will involve either mathematical proofs or coding exercises.
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+ 
+
+### Grading:
+
+* Homework 90%
+* Participation 10%
+
+ 
+
+# Course Plan:
+
+**Lecture 1:** Introduction; case studies; importance of causality; importance of handling high dimensional data/flexible modeling;
+
+ 
+
+### Experiments and causality
+
+**Lecture 2:** Causality via Experiments; Potential Outcomes framework; Two means estimate and confidence interval/asymptotic distribution; limitations of trials; what if we have pre-treatment co-variates: precision and heterogeneity
+
+ 
+### Inference with linear models
+
+**Lecture 3:** Basics of statistical inference in linear models; confidence intervals for p << n; simultaneous confidence bands; interpretation of coefficient as partialling out; inference on ATE from trials via regression; Revisiting the role of covariates in randomized trials: precision and heterogeneity: variance characterization and comparisons
+
+**Lecture 4:** High dimensional methods and prediction; regularization; lasso; elasticnet;
+
+**Lecture 5:** Inference in high-dimensional methods; double lasso; partialling out; intro to Neyman orthogonality
+
+ 
+### Observational data, causality, DAGs
+
+**Lecture 6:** Causality in observational data; confounding; conditional ignorability;  identification by conditioning; identification via propensity scores
+
+**Lecture 7:** Structural equations models and DAGs; basics of DAGs; conditional ignorability in DAGs; Good and Bad controls
+
+**Lecture 8:** General DAGs and Counterfactuals; SWIGs; D-separation; Interventions; Re-visting identification by conditioning
+
+ 
+
+### ML estimation of non-linear models
+
+**Lecture 9:** Modern methods for non-linear prediction: trees and forests; neural networks; feature engineering; some guarantees
+
+**Lecture 10:** Ensembling; stacking; auto-ML
+
+ 
+
+### Statistical inference with non-linear models
+
+**Lecture 11:** DML for PLR and fully non-linear for ATE; Generic debiased ML framework
+
+ 
+
+### Causal Discovery
+
+**Lecture 12:** Causal discovery
+
+ 
+
+### Unobserved Confounding
+
+**Lecture 13:** Omitted variable bias;  Instrumental variables; LATE
+
+**Lecture 14:** Inference in PL IV and non-linear IV models; inference with weak instruments; DML with weak identification
+
+ 
+
+### Heterogeneous Effects and Policy Learning
+
+**Lecture 15:** CATE methods; meta learners; neural network methods; policy learning
+
+**Lecture 16:** Evaluation and model selection of CATE methods; for Trials; for Observational Data
+
+
+### Further Topics (Subject to change)
+
+**Lecture 17:** Censoring
+
+**Lecture 18:** Dynamic regime; Optimal regime; off-policy RL; Surrogates
+
+**Lecture 19:** More structural approaches to un-observed confounding: diff-in-diff; synthetic controls; regression discontinuity (soft RD); proximal inference
+
+**Lecture 20:** Helicopter tour of current software ecosystem for causal machine learning; A helicopter tour of what we did not cover in the course: active experiments
