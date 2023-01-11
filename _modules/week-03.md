@@ -4,6 +4,7 @@ title: Week 3
 
 Jan 23
 : ** Homework**{: .label .label-blue } HW1 Due
+  : [canvas](https://canvas.stanford.edu/)
 Jan 24
 : **Homework**{: .label .label-red } HW1 Due
   : [gradescope](https://www.gradescope.com/courses/486969/)
