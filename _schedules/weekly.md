@@ -26,26 +26,29 @@ schedule:
         start: 1:30 PM
         end: 2:50 PM
         location: McCullough 115
-      - name: Office Hours (Johannes)
+      - name: Office Hours
         start: 3:00 PM
         end: 4:00 PM
         location: McCullough 115
+        staff: Johannes
   - name: Wednesday
     events:
-      - name: Office Hours (Hui)
+      - name: Office Hours
         start: 9:30 AM
         end: 10:30 AM
         location: Huang B007
+        staff: Hui
   - name: Thursday
     events:
       - name: Lecture
         start: 1:30 PM
         end: 2:50 PM
         location: McCullough 115
-      - name: Office Hours (Vasilis)
+      - name: Office Hours
         start: 3:00 PM
         end: 4:00 PM
         location: Huang 252
+        staff: Vasilis
   - name: Friday
     
 ---
