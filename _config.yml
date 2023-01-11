@@ -28,6 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  Github:
+    - 'https://github.com/CausalAIBook/MetricsMLNotebooks'
 footer_content:
 
 # Collections for website data
