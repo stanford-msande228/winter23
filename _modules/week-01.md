@@ -13,6 +13,14 @@ Jan 10
 
 Jan 12
 : **Lecture**{: .label .label-green } Causality via Experiments
+: ***Reading Materials***
+- Chapter 2 of [Textbook](https://canvas.stanford.edu/courses/168439/files/10880360?wrap=1)
+: ***Further reading***
+- [On the Application of Probability Theory to Agricultural Experiments](https://www.jstor.org/stable/2245382)
+- [Comment: Neyman (1923) and Causal Inference in Experiments and Observational Studies](https://www.jstor.org/stable/2245383)
+- [Estimating causal effects of treatments in randomized and nonrandomized studies](http://www.fsb.muohio.edu/lij14/420_paper_Rubin74.pdf)
+- [Obtaining Confidence Intervals for the Risk Ratio in Cohort Studies](https://www.jstor.org/stable/pdf/2530610.pdf)
+- [Agnostic notes on regression adjustments to experimental data: Reexamining Freedman's critique](https://arxiv.org/abs/1208.2301)
 
 Survey
 : Please complete the background survey by the end of Week 1
