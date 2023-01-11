@@ -45,6 +45,7 @@ The course will consist of lectures and homework assignments. Lectures will be h
 
 * Discussion and homework material: [canvas](https://canvas.stanford.edu/)
 * Submissions: [gradescope](https://www.gradescope.com/courses/486969/)
+* Example Code and Notebooks: [Github](https://github.com/CausalAIBook/MetricsMLNotebooks)
 
 
 ### Problem sets
