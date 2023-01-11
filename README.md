@@ -32,7 +32,7 @@ The course will cover fundamentals of modern applied causal inference. Basic pri
 
 ### Format
 
-The course will consist of lectures and students-led discussions. Lectures will be help in person and will not be recorded. The lectures will cover fundamentals that fuse classical structural equation models (SEMs) and DAGs, with tools for statistical inference based on machine learning  (lasso, random forest, deep neural networks)  to infer causal parameters and quantify uncertainty. Grading will be primarily based on the weekly homework assignments and secondarily on class participation. There will be a total of 7-8 homeworks, rolled out roughly on a weekly basis, that will involve either mathematical proofs or coding exercises.  
+The course will consist of lectures and homework assignments. Lectures will be held in person and will not be recorded. The lectures will cover fundamentals that fuse classical structural equation models (SEMs) and DAGs, with tools for statistical inference based on machine learning  (lasso, random forest, deep neural networks)  to infer causal parameters and quantify uncertainty. Grading will be primarily based on the weekly homework assignments and secondarily on class participation. There will be a total of 7-8 homeworks, rolled out roughly on a weekly basis, that will involve either mathematical proofs or coding exercises.  
 
  
 
