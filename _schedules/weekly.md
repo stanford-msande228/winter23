@@ -29,7 +29,7 @@ schedule:
       - name: Office Hours
         start: 3:00 PM
         end: 4:00 PM
-        location: TBA
+        location: McCullough 115
   - name: Wednesday
     events:
       - name: Office Hours
