@@ -31,7 +31,7 @@ aux_links:
   Github:
     - 'https://github.com/CausalAIBook/MetricsMLNotebooks'
 footer_content:
-  This site uses Just-the-Class ('https://github.com/kevinlin1/just-the-class'), a class theme for Jekyll, which inherits from Just-the-Docs.
+  This site uses Just-the-Class (https://github.com/kevinlin1/just-the-class), a class theme for Jekyll, which inherits from Just-the-Docs.
 
 # Collections for website data
 collections:
