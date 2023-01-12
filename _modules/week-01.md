@@ -15,7 +15,12 @@ Jan 12
 : **Lecture**{: .label .label-green } Causality via Experiments
 : ***Reading Materials***
 - Chapter 2 of [Textbook](https://canvas.stanford.edu/courses/168439/files/10880360?wrap=1)
+: ***Coding Materials***
+- [Pennsylvania Re-employment Bonus Experiment](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/rct_penn.ipynb)
+- [Analyzing RCT with Precision via Adjustment](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/rct_simulation.ipynb)
+- [Vaccine RCT Examples](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/rct_vaccines.ipynb)
 : ***Further reading***
+- [Statistical Methods for Research Workers](https://link.springer.com/chapter/10.1007/978-1-4612-4380-9_6)
 - [On the Application of Probability Theory to Agricultural Experiments](https://www.jstor.org/stable/2245382)
 - [Comment: Neyman (1923) and Causal Inference in Experiments and Observational Studies](https://www.jstor.org/stable/2245383)
 - [Estimating causal effects of treatments in randomized and nonrandomized studies](http://www.fsb.muohio.edu/lij14/420_paper_Rubin74.pdf)
