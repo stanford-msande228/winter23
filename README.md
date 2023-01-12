@@ -120,6 +120,7 @@ Course lecture notes will be posted online in the form of powerpoint presentatio
 
 * Hernan MA, Robins JM, [Causal Inference: What If](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2022/12/hernanrobins_WhatIf_20dec22.pdf)
 * Scott Cunningham, [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
+* Kiciman, Sharma, [Causal Reasoning: Fundamentals and Machine Learning Applications](https://causalinference.gitlab.io/book/)
 * Shai Shalev-Shwartz and Shai Ben-David, [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 
 # Other references
