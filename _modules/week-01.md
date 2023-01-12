@@ -21,6 +21,7 @@ Jan 12
 - [Estimating causal effects of treatments in randomized and nonrandomized studies](http://www.fsb.muohio.edu/lij14/420_paper_Rubin74.pdf)
 - [Obtaining Confidence Intervals for the Risk Ratio in Cohort Studies](https://www.jstor.org/stable/pdf/2530610.pdf)
 - [Agnostic notes on regression adjustments to experimental data: Reexamining Freedman's critique](https://arxiv.org/abs/1208.2301)
+- [Trustworthy Online Controlled Experiments](https://experimentguide.com/)
 
 Survey
 : Please complete the background survey by the end of Week 1
