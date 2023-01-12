@@ -12,7 +12,7 @@ Jan 10
 - [Cancer Immunotherapy Data Science Grand Challenge](https://www.topcoder.com/challenges/0494170d-3136-4139-89e0-6c1b009c66a2)
 
 Jan 12
-: **Lecture**{: .label .label-green } Causality via Experiments
+: **Lecture**{: .label .label-green } [Causality via Experiments](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture2_Causality_via_Experiments.pptx)
 : ***Reading Materials***
 - Chapter 2 of [Textbook](https://canvas.stanford.edu/courses/168439/files/10880360?wrap=1)
 : ***Coding Materials***
