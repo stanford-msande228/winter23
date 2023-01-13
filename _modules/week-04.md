@@ -8,4 +8,4 @@ Jan 31
 
 Feb 2
 : **Lecture**{: .label .label-green } General DAGs and Counterfactuals
-: SWIGs; D-separation; Interventions; Re-visting identification by conditioning
+: Single World Intervention Graphs (SWIGs); D-separation; Interventions; Re-visting identification by conditioning
