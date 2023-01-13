@@ -122,7 +122,7 @@ Course lecture notes will be posted online in the form of powerpoint presentatio
 * Scott Cunningham, [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
 * Kiciman, Sharma, [Causal Reasoning: Fundamentals and Machine Learning Applications](https://causalinference.gitlab.io/book/)
 * Shai Shalev-Shwartz and Shai Ben-David, [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
-
+* Wainwright, [High Dimensional Statistics: A Non-Asymptotic Viewpoint](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E)
 # Other references
 
 Here is an assortment of other books that you may find useful to consult but which are not available online.
