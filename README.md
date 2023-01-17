@@ -10,7 +10,7 @@ seo:
 
 # Welcome to MS&E 228 – Applied Causal Inference Powered by ML and AI
 
-Instructor: Vasilis Syrgkanis, Assistant Professor, MS&E  
+Instructor: [Vasilis Syrgkanis](https://vsyrgkanis.com/index.html), Assistant Professor, MS&E  
 Units: 3  
 Winter Quarter 2023  
 Tue, Thu 1:30-2:50PM McCullough 115
