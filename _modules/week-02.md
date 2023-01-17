@@ -3,7 +3,7 @@ title: Week 2
 ---
 Jan 16
 : **Homework**{: .label .label-blue } HW1 Released
-  : [canvas](https://canvas.stanford.edu/)
+  : [Google Doc](https://docs.google.com/document/d/1n6LPw88Ce6m3aYpkNLTqnF0mvPNWhCC8wc_hN5NLrNI/edit?usp=sharing)
   
 Jan 17
 : **Lecture**{: .label .label-green } Inference in linear models
