@@ -24,7 +24,7 @@ Jan 19
 : **Lecture**{: .label .label-green } Prediction in high dimensional linear models
 : High dimensional methods and prediction; regularization; lasso; elasticnet;
 : ***Reading Materials***
-- Chapter 1 of [Textbook](https://canvas.stanford.edu/courses/168439/files/10880360?wrap=1)
+- Chapter 3 of [Textbook](https://canvas.stanford.edu/courses/168439/files/10880360?wrap=1)
 : ***Coding Materials***
 - [Penalized Linear Regressions: Simulated Data](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/linear-penalized-regs.ipynb)
 - [Predicting Wages with Penalized Regressions](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/ml-for-wage-prediction.ipynb)
