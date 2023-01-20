@@ -22,9 +22,9 @@ Jan 17
 
 Jan 19
 : **Lecture**{: .label .label-green } Prediction in high dimensional linear models
-: High dimensional methods and prediction; regularization; lasso; elasticnet;
   : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture4_Inference_in_High_Dimensional_Linear_Models.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture4_Inference_in_High_Dimensional_Linear_Models.pdf)
+: High dimensional methods and prediction; regularization; lasso; elasticnet;
 : ***Reading Materials***
 - Chapter 3 of [Textbook](https://canvas.stanford.edu/courses/168439/files/10880360?wrap=1)
 : ***Coding Materials***
