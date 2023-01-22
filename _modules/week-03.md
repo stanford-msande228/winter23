@@ -12,7 +12,7 @@ Jan 24
 : **Lecture**{: .label .label-green } Inference in high-dimensional linear models
 : double lasso; partialling out; intro to Neyman orthogonality
 : ***Reading Materials***
-- Chapter 3 of [Textbook](https://canvas.stanford.edu/courses/168439/files/10880360?wrap=1)
+- Chapter 4 of [Textbook](https://canvas.stanford.edu/courses/168439/files/10880360?wrap=1)
 
 Jan 26
 : **Lecture**{: .label .label-green } Causality in observational data
