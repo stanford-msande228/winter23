@@ -12,7 +12,7 @@ Jan 17
   : [[Demo Code]](https://github.com/stanford-msande228/winter23/blob/main/Lecture2-Demo.ipynb)
 : Basics of statistical inference in linear models; confidence intervals for p « n; simultaneous confidence bands; interpretation of coefficient as partialling out; inference on ATE from trials via regression; Revisiting the role of covariates in randomized trials: precision and heterogeneity: variance characterization and comparisons
 : ***Reading Materials***
-- Chapter 1 of [Textbook](https://canvas.stanford.edu/courses/168439/files/10880360?wrap=1)
+- Chapter 1 of [Textbook](https://canvas.stanford.edu/files/10949713/download?download_frd=1)
 : ***Coding Materials***
 - [Predicting Wages](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM1/PM1_prediction.ipynb)
 - [Predictive Inference on Wage Gap](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM1/inference.ipynb)
@@ -28,7 +28,7 @@ Jan 19
   : [[Demo Code]](https://github.com/stanford-msande228/winter23/blob/main/Lecture3-Demo.ipynb)
 : High dimensional methods and prediction; regularization; lasso; elasticnet;
 : ***Reading Materials***
-- Chapter 3 of [Textbook](https://canvas.stanford.edu/courses/168439/files/10880360?wrap=1)
+- Chapter 3 of [Textbook](https://canvas.stanford.edu/files/10949713/download?download_frd=1)
 : ***Coding Materials***
 - [Penalized Linear Regressions: Simulated Data](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/linear-penalized-regs.ipynb)
 - [Predicting Wages with Penalized Regressions](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/ml-for-wage-prediction.ipynb)
