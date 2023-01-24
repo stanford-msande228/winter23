@@ -4,7 +4,7 @@ title: Week 3
 
 Jan 23
 : **Homework**{: .label .label-blue } HW2 Released
-  : [canvas](https://canvas.stanford.edu/)
+  : [Google Doc](https://docs.google.com/document/d/1Pu9JfCyoOG-beTFZhlOh27w6f0k6vFPG82HhYAEbinI/edit?usp=sharing)
 
 Jan 24
 : **Homework**{: .label .label-red } HW1 Due
