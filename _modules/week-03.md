@@ -10,8 +10,8 @@ Jan 24
 : **Homework**{: .label .label-red } HW1 Due
   : [gradescope](https://www.gradescope.com/courses/486969/)
 : **Lecture**{: .label .label-green } Inference in high-dimensional linear models
-  : [PPTX](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture5_Inference_in_High_Dimensional_Linear_Models.pptx)
-  : [PDF](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture5_Inference_in_High_Dimensional_Linear_Models.pdf)
+  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture5_Inference_in_High_Dimensional_Linear_Models.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture5_Inference_in_High_Dimensional_Linear_Models.pdf)
 : double lasso; partialling out; intro to Neyman orthogonality
 : ***Reading Materials***
 - Chapter 4 of [Textbook](https://canvas.stanford.edu/files/10949713/download?download_frd=1)
