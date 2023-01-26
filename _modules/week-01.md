@@ -19,7 +19,7 @@ Jan 12
   : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture2_Causality_via_Experiments.pdf)
   : [[Demo Code]](https://github.com/stanford-msande228/winter23/blob/main/Lecture1-Demo.ipynb)
 : ***Reading Materials***
-- Chapter 2 of [Textbook](https://canvas.stanford.edu/files/10949713/download?download_frd=1)
+- Chapter 2 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
 : ***Coding Materials***
 - [Pennsylvania Re-employment Bonus Experiment](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/rct_penn.ipynb)
 - [Analyzing RCT with Precision via Adjustment](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM1/rct_simulation.ipynb)

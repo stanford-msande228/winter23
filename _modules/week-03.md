@@ -15,7 +15,7 @@ Jan 24
   : [[Demo Code]](https://github.com/stanford-msande228/winter23/blob/main/Lecture4-Demo.ipynb)
 : double lasso; partialling out; intro to Neyman orthogonality
 : ***Reading Materials***
-- Chapter 4 of [Textbook](https://canvas.stanford.edu/files/10949713/download?download_frd=1)
+- Chapter 4 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
 : ***Coding Materials***
 - [Testing the Convergence Hypothesis with Double Lasso](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/convergence-hypothesis-double-lasso.ipynb)
 - [Heterogeneous Predictive Wage Effects with Double Lasso](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/python-heterogeneous-wage-effects.ipynb)
@@ -24,6 +24,6 @@ Jan 26
 : **Lecture**{: .label .label-green } Causality in observational data
 : confounding; conditional ignorability; identification by conditioning; identification via propensity scores
 : ***Reading Materials***
-- Chapter 5 of [Textbook](https://canvas.stanford.edu/files/10949713/download?download_frd=1)
-
-
+- Chapter 5 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
+: ***Further Reading***
+- https://academic.oup.com/jn/article/143/6/931/4571741
