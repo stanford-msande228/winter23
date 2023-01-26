@@ -27,5 +27,4 @@ Jan 26
 : confounding; conditional ignorability; identification by conditioning; identification via propensity scores
 : ***Reading Materials***
 - Chapter 5 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
-: ***Further Reading***
-- https://academic.oup.com/jn/article/143/6/931/4571741
+
