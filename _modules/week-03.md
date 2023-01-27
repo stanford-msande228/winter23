@@ -13,7 +13,7 @@ Jan 24
   : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture5_Inference_in_High_Dimensional_Linear_Models.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture5_Inference_in_High_Dimensional_Linear_Models.pdf)
   : [[Demo Code]](https://github.com/stanford-msande228/winter23/blob/main/Lecture4-Demo.ipynb)
-: double lasso; partialling out; intro to Neyman orthogonality
+: double lasso; partialling out; intro to Neyman orthogonality; joint inference on multiple parameters
 : ***Reading Materials***
 - Chapter 4 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
 : ***Coding Materials***
