@@ -28,4 +28,5 @@ Jan 26
 : ***Reading Materials***
 - Chapter 5 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
 : ***Further Reading***
-- https://academic.oup.com/jn/article/143/6/931/4571741
+- [The Central Role of the Propensity Score in Observational Studies for Causal Effects](https://www.jstor.org/stable/2335942#metadata_info_tab_contents)
+- [Adaptive normalization for IPW estimation](https://arxiv.org/abs/2106.07695)
