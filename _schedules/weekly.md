@@ -20,6 +20,12 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
+    events:
+      - name: Office Hours
+        start: 9:30 AM
+        end: 10:30 AM
+        location: Huang Basement
+        staff: Hui
   - name: Tuesday
     events:
       - name: Lecture
@@ -32,12 +38,6 @@ schedule:
         location: McCullough 115
         staff: Johannes
   - name: Wednesday
-    events:
-      - name: Office Hours
-        start: 9:30 AM
-        end: 10:30 AM
-        location: Huang B007
-        staff: Hui
   - name: Thursday
     events:
       - name: Lecture
