@@ -4,10 +4,18 @@ title: Week 4
 
 Jan 31
 : **Lecture**{: .label .label-green } Structural Equations Models and DAGs
+: language of structural equation models (SEMs); conditional exogeneity; language of interventions and "fixing"; direct and in-direct effects
 : ***Reading Materials***
 - Chapter 6 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
-: basics of DAGs; conditional ignorability in DAGs; Good and Bad controls
+: ***Further Reading***
+- [The birth weight "paradox" uncovered?](https://pubmed.ncbi.nlm.nih.gov/16931543/)
 
 Feb 2
 : **Lecture**{: .label .label-green } General DAGs and Counterfactuals
-: Single World Intervention Graphs (SWIGs); D-separation; Interventions; Re-visting identification by conditioning
+: Single World Intervention Graphs (SWIGs); D-separation; Interventions; Re-visting identification by conditioning; Good and Bad controls
+: ***Reading Materials***
+- Chapter 7 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
+: ***Further Reading***
+- [A Crash Course in Good and Bad Controls](https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf)
+- [Single World Intervention Graphs](https://csss.uw.edu/files/working-papers/2013/wp128.pdf)
+- [Proof Sketch of D-Separation Implies Conditional Independence](https://cse.hkust.edu.hk/bnbook/pdf/l03.h.pdf)
