@@ -18,6 +18,8 @@ Tue, Thu 1:30-2:50PM McCullough 115
 **Description:**  
 The course will cover fundamentals of modern applied causal inference. Basic principles of causal inference and machine learning and how the two can be combined in practice to deliver causal insights and policy implications in real world datasets, allowing for high-dimensionality and flexible estimation. Lectures will provide foundations of these new methodologies and the course assignments will involve real world data and synthetic data analysis based on these methodologies. 
 
+![Course Overview](class_overview.png)
+
 **Prerequisites:** Basic knowledge of probability and statistics. Recommended: MS&E 226 or equivalent.
 
 ### Office Hours:  (Starting Week 2)
