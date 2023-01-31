@@ -1,8 +1,13 @@
 ---
 title: Week 4
 ---
+Jan 30
+: **Homework**{: .label .label-blue } HW3 Released
+  : [Google Doc](https://docs.google.com/document/d/1ZCzZj3mwQ7KcPFG6PgFhqDd2cuNatWnOBgfW8SYfk6w/edit?usp=sharing)
 
 Jan 31
+: **Homework**{: .label .label-red } HW2 Due
+  : [gradescope](https://www.gradescope.com/courses/486969/)
 : **Lecture**{: .label .label-green } Structural Equations Models and DAGs
 : language of structural equation models (SEMs); conditional exogeneity; language of interventions and "fixing"; direct and in-direct effects
 : ***Reading Materials***
