@@ -9,6 +9,8 @@ Jan 31
 : **Homework**{: .label .label-red } HW2 Due
   : [gradescope](https://www.gradescope.com/courses/486969/)
 : **Lecture**{: .label .label-green } Structural Equations Models and DAGs
+  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture7_Structural_Equation_Models.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture7_Structural_Equation_Models.pdf)
 : language of structural equation models (SEMs); conditional exogeneity; language of interventions and "fixing"; direct and in-direct effects
 : ***Reading Materials***
 - Chapter 6 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
