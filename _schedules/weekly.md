@@ -24,7 +24,7 @@ schedule:
       - name: Office Hours
         start: 9:30 AM
         end: 10:30 AM
-        location: Huang Basement
+        location: Spilker 143
         staff: Hui
   - name: Tuesday
     events:
