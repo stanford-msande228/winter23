@@ -19,7 +19,9 @@ Jan 31
 
 Feb 2
 : **Lecture**{: .label .label-green } General DAGs and Counterfactuals
-: Single World Intervention Graphs (SWIGs); D-separation; Interventions; Re-visting identification by conditioning; Good and Bad controls
+  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture8_DAGs.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture8_DAGs.pdf)
+: Single World Intervention Graphs (SWIGs); D-separation; Interventions; Re-visting identification by conditioning; Proof of D-separation implies conditional independence
 : ***Reading Materials***
 - Chapter 7 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
 : ***Further Reading***
