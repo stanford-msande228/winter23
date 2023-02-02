@@ -166,25 +166,20 @@ Here is an assortment of other books that you may find useful to consult but whi
 
 **Lecture 8:** General DAGs and Counterfactuals; SWIGs; D-separation; Interventions; Re-visting identification by conditioning
 
+**Lecture 9:** Graphical criteria for valid adjustment sets; Good and Bad Controls
  
 
 ### ML estimation of non-linear models
 
-**Lecture 9:** Modern methods for non-linear prediction: trees and forests; neural networks; feature engineering; some guarantees
+**Lecture 10:** Modern methods for non-linear prediction: trees and forests; neural networks; feature engineering; some guarantees
 
-**Lecture 10:** Ensembling; stacking; auto-ML
+**Lecture 11:** Ensembling; stacking; auto-ML
 
  
 
 ### Statistical inference with non-linear models
 
-**Lecture 11:** DML for PLR and fully non-linear for ATE; Generic debiased ML framework
-
- 
-
-### Causal Discovery
-
-**Lecture 12:** Causal discovery
+**Lecture 12:** DML for PLR and fully non-linear for ATE; Generic debiased ML framework
 
  
 
