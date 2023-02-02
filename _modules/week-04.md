@@ -25,6 +25,5 @@ Feb 2
 : ***Reading Materials***
 - Chapter 7 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
 : ***Further Reading***
-- [A Crash Course in Good and Bad Controls](https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf)
 - [Single World Intervention Graphs](https://csss.uw.edu/files/working-papers/2013/wp128.pdf)
 - [Proof Sketch of D-Separation Implies Conditional Independence](https://cse.hkust.edu.hk/bnbook/pdf/l03.h.pdf)
