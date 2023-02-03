@@ -26,4 +26,7 @@ Feb 2
 - Chapter 7 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
 : ***Further Reading***
 - [Single World Intervention Graphs](https://csss.uw.edu/files/working-papers/2013/wp128.pdf)
+- [Verma and Pearl, Influence Diagrams and D-Separation](https://ftp.cs.ucla.edu/pub/stat_ser/r101.pdf)
 - [Proof Sketch of D-Separation Implies Conditional Independence](https://cse.hkust.edu.hk/bnbook/pdf/l03.h.pdf)
+- [The Causal-Neural Connections](https://arxiv.org/abs/2107.00793)
+- [Partial Identification with Implicit Generative Models](https://arxiv.org/abs/2210.08139)
