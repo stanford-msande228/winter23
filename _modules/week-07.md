@@ -4,7 +4,7 @@ title: Week 7
 
 Feb 21
 : **Lecture**{: .label .label-green } Unobserved Confounding and Instruments
-: Omitted variable bias; Instrumental variables; Local Average Treatment Effect (LATE)
+: Omitted variable bias; Instrumental variables; Local Average Treatment Effect (LATE); proximal inference
 
 Feb 23
 : **Lecture**{: .label .label-green } Unobserved Confounding and Instruments 2

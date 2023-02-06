@@ -185,7 +185,7 @@ Here is an assortment of other books that you may find useful to consult but whi
 
 ### Unobserved Confounding
 
-**Lecture 13:** Omitted variable bias;  Instrumental variables; LATE
+**Lecture 13:** Omitted variable bias;  Instrumental variables; LATE; proximal inference
 
 **Lecture 14:** Inference in PL IV and non-linear IV models; inference with weak instruments; DML with weak identification
 
@@ -204,7 +204,7 @@ Here is an assortment of other books that you may find useful to consult but whi
 
 **Lecture 18:** Dynamic regime; Optimal regime; off-policy RL; Surrogates
 
-**Lecture 19:** More structural approaches to un-observed confounding: diff-in-diff; synthetic controls; regression discontinuity (soft RD); proximal inference
+**Lecture 19:** More structural approaches to un-observed confounding: diff-in-diff; synthetic controls; regression discontinuity (soft RD)
 
 **Lecture 20:** TBA
 
