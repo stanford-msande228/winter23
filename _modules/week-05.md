@@ -1,8 +1,12 @@
 ---
 title: Week 5
 ---
+Feb 6
+: **Homework**{: .label .label-blue } HW4 Released
+  : [Google Doc](https://docs.google.com/document/d/1rjNUAJF9t2NAbe8XoFjL7Qf4Uhw47JQtG5KJrKBB4Z8/edit?usp=sharing)
 
 Feb 7
+: **Homework**{: .label .label-red } HW3 Due
 : **Lecture**{: .label .label-green } Valid Adjustments Sets from DAGs
 : Single World Intervention Graphs (SWIGs); Graphical criteria for valid adjustment sets; Good and Bad controls
 : ***Reading Materials***
