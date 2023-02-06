@@ -64,6 +64,11 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  - scope:
+      path: ''
+      type: libraries
+    values:
+      layout: module
 
 compress_html:
   clippings: all
