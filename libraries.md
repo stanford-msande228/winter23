@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Useful Python Libraries for Causal ML
+title: Python Libraries for CausalML
 description: A collection of python libraries that are useful for causal machine learning.
 ---
 
