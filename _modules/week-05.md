@@ -10,6 +10,9 @@ Feb 7
 : ***Further Reading***
 - [Single World Intervention Graphs](https://csss.uw.edu/files/working-papers/2013/wp128.pdf)
 - [A Crash Course in Good and Bad Controls](https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf)
+- [Causal Knowledge as a Prerequisite for Confounding Evaluation: An Application to Birth Defects Epidemiology](https://academic.oup.com/aje/article/155/2/176/108106)
+- [Endogenous Selection Bias: The Problem of Conditioning on a Collider Variable](https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-071913-043455)
+- [The Importance of Covariate Selection in Controlling for Selection Bias in Observational Studies](https://psycnet.apa.org/fulltext/2010-18042-003.pdf)
 
 Feb 9
 : **Lecture**{: .label .label-green } Modern Non-Linear Prediction
