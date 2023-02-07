@@ -8,6 +8,8 @@ Feb 6
 Feb 7
 : **Homework**{: .label .label-red } HW3 Due
 : **Lecture**{: .label .label-green } Valid Adjustments Sets from DAGs
+  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture9_Valid_Adjustment_Sets.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture9_Valid_Adjustment_Sets.pdf)
 : Single World Intervention Graphs (SWIGs); Graphical criteria for valid adjustment sets; Good and Bad controls
 : ***Reading Materials***
 - Chapter 8 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
