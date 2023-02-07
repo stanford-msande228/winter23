@@ -10,8 +10,8 @@ Feb 7
 : **Lecture**{: .label .label-green } Valid Adjustments Sets from DAGs
   : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture9_Valid_Adjustment_Sets.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture9_Valid_Adjustment_Sets.pdf)
-  : [Demo Code Python](https://colab.research.google.com/drive/1BHwxAO0OkIoroK66zRVxnkptKbJQ-q9W)
-  : [Demo Code R](https://colab.research.google.com/drive/1RA3jNYtw5j0MfiPYIfaMlhB8nuWEDB1O#scrollTo=UG0_nl-XYNvV)
+  : [[Demo Py]](https://colab.research.google.com/drive/1BHwxAO0OkIoroK66zRVxnkptKbJQ-q9W)
+  : [[Demo R]](https://colab.research.google.com/drive/1RA3jNYtw5j0MfiPYIfaMlhB8nuWEDB1O#scrollTo=UG0_nl-XYNvV)
 : Single World Intervention Graphs (SWIGs); Graphical criteria for valid adjustment sets; Good and Bad controls
 : ***Reading Materials***
 - Chapter 8 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
