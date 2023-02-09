@@ -4,9 +4,9 @@ title: Week 6
 
 Feb 14
 : **Lecture**{: .label .label-green } Modern Non-Linear Prediction 2
-: Ensembling; stacking; auto-ML
+: Feature engineering and pre-trained models
 : ***Reading Materials***
-- Chapter 9 and 11 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
+- Chapter 11 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
 
 
 

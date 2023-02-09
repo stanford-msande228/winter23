@@ -25,8 +25,8 @@ Feb 7
 
 Feb 9
 : **Lecture**{: .label .label-green } Modern Non-Linear Prediction
-: trees and forests; neural networks; feature engineering;
+: trees and forests; neural networks; stacking; auto-ml
 : ***Reading Materials***
-- Chapter 9 and 11 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
+- Chapter 9 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
 
 
