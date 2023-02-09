@@ -25,6 +25,9 @@ Feb 7
 
 Feb 9
 : **Lecture**{: .label .label-green } Modern Non-Linear Prediction
+  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture10_Modern_Nonlinear_Prediction.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture10_Modern_Nonlinear_Prediction.pdf)
+  : [[Demo Code]](https://github.com/stanford-msande228/winter23/blob/main/Lecture10-Demo.ipynb)
 : trees and forests; neural networks; stacking; auto-ml
 : ***Reading Materials***
 - Chapter 9 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
