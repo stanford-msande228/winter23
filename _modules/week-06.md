@@ -6,7 +6,7 @@ Feb 14
 : **Homework**{: .label .label-red } HW4 Due
   : [gradescope](https://www.gradescope.com/courses/486969/)
 : **Lecture**{: .label .label-green } Modern Non-Linear Prediction 2
-: Feature engineering and pre-trained models
+: neural networks; stacking; auto-ml; feature engineering and pre-trained models
 : ***Reading Materials***
 - Chapter 11 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
 
