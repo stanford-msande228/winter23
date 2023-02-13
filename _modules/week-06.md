@@ -3,6 +3,8 @@ title: Week 6
 ---
 
 Feb 14
+: **Homework**{: .label .label-red } HW4 Due
+  : [gradescope](https://www.gradescope.com/courses/486969/)
 : **Lecture**{: .label .label-green } Modern Non-Linear Prediction 2
 : Feature engineering and pre-trained models
 : ***Reading Materials***
