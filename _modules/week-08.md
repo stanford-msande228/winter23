@@ -1,6 +1,8 @@
 ---
 title: Week 8
 ---
+Feb 27
+: **Homework**{: .label .label-blue } HW6 Released
 
 Feb 28
 : **Lecture**{: .label .label-green } Heterogeneous Effects and Policy Learning

@@ -1,6 +1,8 @@
 ---
 title: Week 7
 ---
+Feb 20
+: **Homework**{: .label .label-blue } HW5 Released
 
 Feb 21
 : **Lecture**{: .label .label-green } Unobserved Confounding and Instruments
