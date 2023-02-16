@@ -26,6 +26,8 @@ Feb 14
 
 Feb 16
 : **Lecture**{: .label .label-green } Statistical inference with non-linear models
+  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture12_Inference_with_Modern_NonLinear_Methods.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture12_Inference_with_Modern_NonLinear_Methods.pdf)
 : Debiased ML for ATE under partially linear and fully non-linear models; Generic debiased ML framework
 : ***Reading Materials***
 - Chapter 10 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
