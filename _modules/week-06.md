@@ -15,6 +15,7 @@ Feb 14
 : ***Coding Materials***
 - [Non-Linear ML for Wage Prediction](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM3/python-nonlinear-ml-for-wage-prediction.ipynb)
 : ***Further Reading***
+- [Text as Data](https://www.aeaweb.org/articles?id=10.1257/jel.20181020)
 - [Challenging Common Assumptions in Disentangled Representations](https://arxiv.org/abs/1811.12359)
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
 - [Representation Learning: A Review and New Perspectives](https://arxiv.org/abs/1206.5538)
