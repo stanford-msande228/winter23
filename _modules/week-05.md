@@ -31,5 +31,6 @@ Feb 9
 : trees and forests;
 : ***Reading Materials***
 - Chapter 9 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
-
-
+: ***Coding Materials***
+- [Function approximation with Trees, Random Forests, Gradient Boosting and NNets](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM3/python-functional-approximation-by-nn-and-rf.ipynb)
+- [Non-Linear ML for Wage Prediction](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM3/python-nonlinear-ml-for-wage-prediction.ipynb)

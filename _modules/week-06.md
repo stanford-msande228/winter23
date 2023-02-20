@@ -12,6 +12,8 @@ Feb 14
 : neural networks; stacking; auto-ml; feature engineering and pre-trained models
 : ***Reading Materials***
 - Chapter 11 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
+: ***Coding Materials***
+- [Non-Linear ML for Wage Prediction](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM3/python-nonlinear-ml-for-wage-prediction.ipynb)
 : ***Further Reading***
 - [Challenging Common Assumptions in Disentangled Representations](https://arxiv.org/abs/1811.12359)
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
