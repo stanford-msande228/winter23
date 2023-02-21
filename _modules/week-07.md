@@ -6,7 +6,7 @@ Feb 20
 
 Feb 21
 : **Lecture**{: .label .label-green } Statistical inference with non-linear models 2
-: Examples; segway to unobserved confounding and omitted variable bias; 
+: Finalizing theory; Examples; segway to unobserved confounding and omitted variable bias; 
 : ***Coding Materials***
 - [DML for Impact of 401(K) Eligibility on Financial Wealth](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM4/python-dml-401k.ipynb)
 
