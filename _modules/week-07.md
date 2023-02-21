@@ -1,10 +1,9 @@
 ---
 title: Week 7
 ---
-Feb 20
-: **Homework**{: .label .label-blue } HW5 Released
 
 Feb 21
+: **Homework**{: .label .label-blue } HW5 Released
 : **Lecture**{: .label .label-green } Statistical inference with non-linear models 2
 : Finalizing theory; Examples; segway to unobserved confounding and omitted variable bias; 
 : ***Coding Materials***
