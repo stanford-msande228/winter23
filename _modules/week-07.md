@@ -14,4 +14,6 @@ Feb 21
 
 Feb 23
 : **Lecture**{: .label .label-green } Unobserved Confounding and Instruments
+  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture12_Unobserved_Confounding.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture12_Unobserved_Confounding.pdf)
 : Omitted Variable Bias; Instrumental variables; Local Average Treatment Effect (LATE); proximal inference; Debiased ML inference in partially linear and non-linear IV models; inference with weak instruments; DML with weak identification
