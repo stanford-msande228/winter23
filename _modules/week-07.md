@@ -17,3 +17,16 @@ Feb 23
   : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture12_Unobserved_Confounding.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture12_Unobserved_Confounding.pdf)
 : Omitted Variable Bias; Instrumental variables; Local Average Treatment Effect (LATE); proximal inference; Debiased ML inference in partially linear and non-linear IV models; inference with weak instruments; DML with weak identification
+: ***Coding Materials***
+- [DML for Impact of 401(K) Eligibility on Financial Wealth](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM4/python-dml-401k.ipynb)
+- [Sensitivity Analysis in 401k: Omitted Variable Bias Bounds](https://github.com/stanford-msande228/winter23/blob/main/python-dml-401k-Sensitivity.ipynb)
+- [DML IV for Impact of 401(K) on Financial Wealth](https://github.com/stanford-msande228/winter23/blob/main/python-dml-401k-IV.ipynb)
+: ***Further Reading***
+- [Making Sense of Sensitivity: Extending Omitted Variable Bias](https://carloscinelli.com/files/Cinelli%20and%20Hazlett%20(2020)%20-%20Making%20Sense%20of%20Sensitivity.pdf)
+- [Long Story Short: Omitted Variable Bias in Causal Machine Learning](https://arxiv.org/abs/2112.13398)
+- [Wright 1928, The tariff on animal and vegetable oils](https://scholar.harvard.edu/files/stock/files/tariff_appendixb.pdf)
+- [Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2951620)
+- [Using Geographic Variation in College Proximity to Estimate the Return to Schooling](https://www.nber.org/papers/w4483)
+- [Does compulsory school attendance affect schooling and earnings?](https://www.jstor.org/stable/2937954)
+: ***Further Coding Materials***
+- [Git Repo for Omitted Variable Bias with ML](https://github.com/vsyrgkanis/omvb)
