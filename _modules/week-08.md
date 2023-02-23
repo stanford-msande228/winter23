@@ -2,12 +2,16 @@
 title: Week 8
 ---
 Feb 27
-: **Homework**{: .label .label-blue } HW6 Released
+
 
 Feb 28
-: **Lecture**{: .label .label-green } Heterogeneous Effects and Policy Learning
-: Estimation of Conditional Average Treatment Effects (CATE); meta learners; neural network methods; policy learning
+: **Lecture**{: .label .label-green } Unobserved Confounding and Instruments
+: Debiased ML inference in partially linear and non-linear IV models; inference with weak instruments; DML with weak identification
+
+Mar 1
+: **Homework**{: .label .label-blue } HW5 Due
 
 Mar 2
+: **Homework**{: .label .label-blue } HW6 Released
 : **Lecture**{: .label .label-green } Heterogeneous Effects and Policy Learning
-: Evaluation and model selection of CATE methods; for Randomized Trials; for Observational Data; hypothesis testing for heterogeneity
+: Estimation of Conditional Average Treatment Effects (CATE); meta learners; neural network methods; policy learning; Evaluation and model selection of CATE methods; for Randomized Trials; for Observational Data; hypothesis testing for heterogeneity
