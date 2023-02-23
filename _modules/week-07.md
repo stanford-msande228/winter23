@@ -3,7 +3,7 @@ title: Week 7
 ---
 
 Feb 21
-: **Homework**{: .label .label-blue } HW5 Released
+: **Homework**{: .label .label-blue } HW5 Released [Google Doc](https://docs.google.com/document/d/1xE37hsw-MsiXUZNvztM5aiULUREFCvRFuBZAxqzhjio/edit?usp=sharing)
 : **Lecture**{: .label .label-green } Statistical inference with non-linear models 2
   : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture13_Inference_with_Modern_NonLinear_Methods2.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture13_Inference_with_Modern_NonLinear_Methods2.pdf)
