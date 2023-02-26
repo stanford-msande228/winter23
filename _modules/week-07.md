@@ -8,7 +8,9 @@ Feb 21
 : **Lecture**{: .label .label-green } Statistical inference with non-linear models 2
   : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture13_Inference_with_Modern_NonLinear_Methods2.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture13_Inference_with_Modern_NonLinear_Methods2.pdf)
-: Finalizing theory; Examples; segway to unobserved confounding and omitted variable bias; 
+: Finalizing theory; Examples; segway to unobserved confounding and omitted variable bias;
+: ***Reading Materials***
+- Chapter 10 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
 : ***Coding Materials***
 - [DML for Impact of 401(K) Eligibility on Financial Wealth](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM4/python-dml-401k.ipynb)
 
@@ -18,6 +20,8 @@ Feb 23
   : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture14_Unobserved_Confounding.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture14_Unobserved_Confounding.pdf)
 : Omitted Variable Bias; Instrumental variables;
+: ***Reading Materials***
+- Chapter 11 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
 : ***Coding Materials***
 - [DML for Impact of 401(K) Eligibility on Financial Wealth](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM4/python-dml-401k.ipynb)
 - [Sensitivity Analysis in 401k: Omitted Variable Bias Bounds](https://github.com/stanford-msande228/winter23/blob/main/python-dml-401k-Sensitivity.ipynb)
