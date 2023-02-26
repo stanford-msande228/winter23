@@ -1,12 +1,10 @@
 ---
 title: Week 8
 ---
-Feb 27
-
 
 Feb 28
 : **Lecture**{: .label .label-green } Unobserved Confounding and Instruments
-: Debiased ML inference in partially linear and non-linear IV models; inference with weak instruments; DML with weak identification
+: Local Average Treatment Effect (LATE); Debiased ML inference in partially linear and non-linear IV models; inference with weak instruments; DML with weak identification
 
 Mar 1
 : **Homework**{: .label .label-blue } HW5 Due

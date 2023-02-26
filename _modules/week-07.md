@@ -17,7 +17,7 @@ Feb 23
 : **Lecture**{: .label .label-green } Unobserved Confounding and Instruments
   : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture14_Unobserved_Confounding.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture14_Unobserved_Confounding.pdf)
-: Omitted Variable Bias; Instrumental variables; Local Average Treatment Effect (LATE);
+: Omitted Variable Bias; Instrumental variables;
 : ***Coding Materials***
 - [DML for Impact of 401(K) Eligibility on Financial Wealth](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM4/python-dml-401k.ipynb)
 - [Sensitivity Analysis in 401k: Omitted Variable Bias Bounds](https://github.com/stanford-msande228/winter23/blob/main/python-dml-401k-Sensitivity.ipynb)
