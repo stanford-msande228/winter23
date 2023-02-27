@@ -16,4 +16,4 @@ Mar 1
 Mar 2
 : **Homework**{: .label .label-blue } HW6 Released
 : **Lecture**{: .label .label-green } Heterogeneous Effects and Policy Learning
-: Estimation of Conditional Average Treatment Effects (CATE); meta learners; neural network methods; policy learning; Evaluation and model selection of CATE methods; for Randomized Trials; for Observational Data; hypothesis testing for heterogeneity
+: Estimation of Conditional Average Treatment Effects (CATE); Best Linear CATE; Inference on Best Linear CATE; Beyond best linear cate for Randomized Trials; hypothesis testing for heterogeneity
