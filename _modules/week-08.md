@@ -4,8 +4,8 @@ title: Week 8
 
 Feb 28
 : **Lecture**{: .label .label-green } Unobserved Confounding and Instruments
-  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture15_Unobserved_Confounding_Instruments.pptx)
-  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture15_Unobserved_Confounding_Instruments.pdf)
+  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture15_Unobserved_Confounding_and_Instruments.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture15_Unobserved_Confounding_and_Instruments.pdf)
 : Local Average Treatment Effect (LATE); Debiased ML inference in partially linear and non-linear IV models; inference with weak instruments; DML with weak identification
 : ***Reading Materials***
 - Chapter 11 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
