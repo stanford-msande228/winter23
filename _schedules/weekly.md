@@ -20,12 +20,6 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
-    events:
-      - name: Office Hours
-        start: 9:30 AM
-        end: 10:30 AM
-        location: Spilker 143
-        staff: Hui
   - name: Tuesday
     events:
       - name: Lecture
@@ -40,6 +34,11 @@ schedule:
   - name: Wednesday
   - name: Thursday
     events:
+      - name: Office Hours
+        start: 12:30 PM
+        end: 1:30 PM
+        location: Huang Basement
+        staff: Hui
       - name: Lecture
         start: 1:30 PM
         end: 2:50 PM
