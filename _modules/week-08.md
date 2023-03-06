@@ -12,10 +12,9 @@ Feb 28
 : ***Coding Materials***
 - [DML IV for Impact of 401(K) on Financial Wealth](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM4/python-dml-401k-IV.ipynb)
 - [DML IV for Recommendation A/B Tests](https://github.com/stanford-msande228/winter23/blob/main/Case%20Study%20-%20Recommendation%20AB%20Testing%20at%20An%20Online%20Travel%20Company.ipynb#Get-Causal-Effects-with-EconML.ipynb)
-
+- [Proxy Controls with DML](https://github.com/stanford-msande228/winter23/blob/main/Proxy_Controls.ipynb)
 
 Mar 2
-: **Homework**{: .label .label-blue } HW6 Released
 : **Lecture**{: .label .label-green } Heterogeneous Effects and Policy Learning
   : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture16_Heterogeneous_Treatment_Effects.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture16_Heterogeneous_Treatment_Effects.pdf)
@@ -24,5 +23,5 @@ Mar 2
 - [Debiased machine learning of conditional average treatment effects and other causal functions](https://academic.oup.com/ectj/article/24/2/264/5899048?rss=1)
 - [Orthogonal Statistical Learning](https://arxiv.org/abs/1901.09036)
 
-Mar 3
+Mar 5
 : **Homework**{: .label .label-blue } HW5 Due
