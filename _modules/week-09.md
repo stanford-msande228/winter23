@@ -23,4 +23,5 @@ Mar 9
 : neural network methods; Evaluation and model selection of CATE methods; policy learning;
 
 Mar 12
+: **Homework**{: .label .label-blue } HW6 Due
 : **Homework**{: .label .label-blue } HW7 Released
