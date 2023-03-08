@@ -13,7 +13,9 @@ Mar 7
   : [[Demo Code]](https://github.com/stanford-msande228/winter23/blob/main/CATE-estimation.ipynb)
 : Estimation of CATE from observational data; meta learners;
 : ***Further Reading***
-- [Orthogonal Statistical Learning](https://arxiv.org/abs/1901.09036)
+- [Meta Learners](https://arxiv.org/abs/1706.03461)
+- [R-Learner](https://arxiv.org/abs/1712.04912)
+- [Orthogonal Statistical Learning, DR-Learner](https://arxiv.org/abs/1901.09036)
 : ***Coding Materials***
 - [Estimation, Evaluation and Validation of CATE models](https://github.com/stanford-msande228/winter23/blob/main/CATE-estimation.ipynb)
 - [Auxiliary python script needed for demo and CATE notebook code](https://github.com/stanford-msande228/winter23/blob/main/myflaml.py)
