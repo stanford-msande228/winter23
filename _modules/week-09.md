@@ -8,10 +8,17 @@ Mar 6
 
 Mar 7
 : **Lecture**{: .label .label-green } Heterogeneous Effects and Policy Learning 2
-: Estimation of CATE from observational data; meta learners; neural network methods; policy learning; Evaluation and model selection of CATE methods; 
-
-Mar 8
+  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture17_Heterogeneous_Treatment_Effects.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture17_Heterogeneous_Treatment_Effects.pdf)
+  : [Demo Code](https://github.com/stanford-msande228/winter23/blob/main/CATE-estimation.ipynb)
+: Estimation of CATE from observational data; meta learners;
+: ***Coding Materials***
+- [Estimation, Evaluation and Validation of CATE models](https://github.com/stanford-msande228/winter23/blob/main/CATE-estimation.ipynb)
+- [Auxiliary python script needed for demo and CATE notebook code](https://github.com/stanford-msande228/winter23/blob/main/myflaml.py)
 
 Mar 9
+: **Lecture**{: .label .label-green } Heterogeneous Effects and Policy Learning 3
+: neural network methods; Evaluation and model selection of CATE methods; policy learning;
+
+Mar 12
 : **Homework**{: .label .label-blue } HW7 Released
-: **Lecture**{: .label .label-green } Longitudinal Data and Dynamic Treatment Regime
