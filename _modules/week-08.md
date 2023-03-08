@@ -21,7 +21,6 @@ Mar 2
 : Estimation of Conditional Average Treatment Effects (CATE); Best Linear CATE; Inference on Best Linear CATE
 : ***Further Reading***
 - [Debiased machine learning of conditional average treatment effects and other causal functions](https://academic.oup.com/ectj/article/24/2/264/5899048?rss=1)
-- [Orthogonal Statistical Learning](https://arxiv.org/abs/1901.09036)
 
 Mar 5
 : **Homework**{: .label .label-blue } HW5 Due

@@ -10,8 +10,10 @@ Mar 7
 : **Lecture**{: .label .label-green } Heterogeneous Effects and Policy Learning 2
   : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture17_Heterogeneous_Treatment_Effects.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture17_Heterogeneous_Treatment_Effects.pdf)
-  : [Demo Code](https://github.com/stanford-msande228/winter23/blob/main/CATE-estimation.ipynb)
+  : [[Demo Code]](https://github.com/stanford-msande228/winter23/blob/main/CATE-estimation.ipynb)
 : Estimation of CATE from observational data; meta learners;
+: ***Further Reading***
+- [Orthogonal Statistical Learning](https://arxiv.org/abs/1901.09036)
 : ***Coding Materials***
 - [Estimation, Evaluation and Validation of CATE models](https://github.com/stanford-msande228/winter23/blob/main/CATE-estimation.ipynb)
 - [Auxiliary python script needed for demo and CATE notebook code](https://github.com/stanford-msande228/winter23/blob/main/myflaml.py)
