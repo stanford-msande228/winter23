@@ -25,6 +25,7 @@ class AutoMLWrap(BaseEstimator):
 
 
 def auto_reg(X, y, *, n_splits=5, time_budget=60, verbose=0):
+    X = np.array(X)
     automl = AutoML(task='regression', time_budget=time_budget, early_stop=True,
                     eval_method='cv', n_splits=n_splits, metric='mse', verbose=verbose)
     inds = np.arange(X.shape[0])
@@ -49,6 +50,7 @@ class AutoMLWrapCLF(BaseEstimator):
 
 
 def auto_clf(X, y, *, n_splits=5, time_budget=60, verbose=0):
+    X = np.array(X)
     automl = AutoML(task='classification', time_budget=time_budget, early_stop=True,
                     eval_method='cv', n_splits=n_splits, metric='mse', verbose=verbose)
     inds = np.arange(X.shape[0])
@@ -76,6 +78,7 @@ def weighted_mse(
 
 
 def auto_weighted_reg(X, y, *, sample_weight, n_splits=5, time_budget=60, verbose=0):
+    X = np.array(X)
     automl = AutoML(task='regression', time_budget=time_budget, early_stop=True,
                     eval_method='cv',
                     n_splits=n_splits, metric=weighted_mse, verbose=verbose)

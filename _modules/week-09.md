@@ -19,6 +19,7 @@ Mar 7
 : ***Coding Materials***
 - [Estimation, Evaluation and Validation of CATE models](https://github.com/stanford-msande228/winter23/blob/main/CATE-estimation.ipynb)
 - [Auxiliary python script needed for demo and CATE notebook code](https://github.com/stanford-msande228/winter23/blob/main/myflaml.py)
+- [Auxiliary python script needed for demo and CATE notebook code](https://github.com/stanford-msande228/winter23/blob/main/datasets.py)
 
 Mar 9
 : **Lecture**{: .label .label-green } Heterogeneous Effects and Policy Learning 3
