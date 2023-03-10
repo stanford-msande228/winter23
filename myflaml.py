@@ -48,11 +48,20 @@ class AutoMLWrapCLF(BaseEstimator):
     def predict(self, X):
         return self.model_.predict_proba(X)[:, 1]
 
+# By default if we use metric='mse' for a classification task, then flaml
+# will use `predict` instead of `predict_proba`. We define a custom mse
+# loss for classification.
+def clf_mse(
+        X_val, y_val, estimator, labels,
+        X_train, y_train, weight_val=None, weight_train=None,
+        *args,):
+    val_loss = np.mean((estimator.predict_proba(X_val)[:, 1] - y_val)**2)
+    return val_loss, {"val_loss": val_loss}
 
 def auto_clf(X, y, *, n_splits=5, time_budget=60, verbose=0):
     X = np.array(X)
     automl = AutoML(task='classification', time_budget=time_budget, early_stop=True,
-                    eval_method='cv', n_splits=n_splits, metric='mse', verbose=verbose)
+                    eval_method='cv', n_splits=n_splits, metric=clf_mse, verbose=verbose)
     inds = np.arange(X.shape[0])
     np.random.shuffle(inds)
     automl.fit(X[inds], y[inds])
@@ -67,7 +76,6 @@ def weighted_mse(
         X_val, y_val, estimator, labels,
         X_train, y_train, weight_val=None, weight_train=None,
         *args,):
-    y_pred = estimator.predict(X_val)
     weight_val = 1 if weight_val is None else weight_val
     weight_train = 1 if weight_train is None else weight_train
     error = (estimator.predict(X_val) - y_val)**2
