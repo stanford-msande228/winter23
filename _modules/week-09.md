@@ -41,4 +41,3 @@ Mar 9
 
 Mar 12
 : **Homework**{: .label .label-blue } HW6 Due
-: **Homework**{: .label .label-blue } HW7 Released

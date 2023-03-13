@@ -24,13 +24,17 @@ class AutoMLWrap(BaseEstimator):
         return self.model_.predict(X)
 
 
-def auto_reg(X, y, *, n_splits=5, time_budget=60, verbose=0):
+def auto_reg(X, y, *, groups=None, n_splits=5, split_type='auto', time_budget=60, verbose=0):
     X = np.array(X)
     automl = AutoML(task='regression', time_budget=time_budget, early_stop=True,
-                    eval_method='cv', n_splits=n_splits, metric='mse', verbose=verbose)
+                    eval_method='cv', n_splits=n_splits, split_type=split_type,
+                    metric='mse', verbose=verbose)
     inds = np.arange(X.shape[0])
     np.random.shuffle(inds)
-    automl.fit(X[inds], y[inds])
+    if groups is None:
+        automl.fit(X[inds], y[inds])
+    else:
+        automl.fit(X[inds], y[inds], groups=groups[inds])
     best_est = automl.best_estimator
     return lambda: AutoMLWrap(model=clone(automl.best_model_for_estimator(best_est)))
 
@@ -58,13 +62,17 @@ def clf_mse(
     val_loss = np.mean((estimator.predict_proba(X_val)[:, 1] - y_val)**2)
     return val_loss, {"val_loss": val_loss}
 
-def auto_clf(X, y, *, n_splits=5, time_budget=60, verbose=0):
+def auto_clf(X, y, *, groups=None, n_splits=5, split_type='auto', time_budget=60, verbose=0):
     X = np.array(X)
     automl = AutoML(task='classification', time_budget=time_budget, early_stop=True,
-                    eval_method='cv', n_splits=n_splits, metric=clf_mse, verbose=verbose)
+                    eval_method='cv', n_splits=n_splits, split_type=split_type,
+                    metric=clf_mse, verbose=verbose)
     inds = np.arange(X.shape[0])
     np.random.shuffle(inds)
-    automl.fit(X[inds], y[inds])
+    if groups is None:
+        automl.fit(X[inds], y[inds])
+    else:
+        automl.fit(X[inds], y[inds], groups=groups[inds])
     best_est = automl.best_estimator
     return lambda: AutoMLWrapCLF(model=clone(automl.best_model_for_estimator(best_est)))
 
@@ -85,13 +93,17 @@ def weighted_mse(
     return val_loss, {"val_loss": val_loss, "train_loss": train_loss}
 
 
-def auto_weighted_reg(X, y, *, sample_weight, n_splits=5, time_budget=60, verbose=0):
+def auto_weighted_reg(X, y, *, sample_weight, groups=None, n_splits=5,  split_type='auto', time_budget=60, verbose=0):
     X = np.array(X)
     automl = AutoML(task='regression', time_budget=time_budget, early_stop=True,
                     eval_method='cv',
-                    n_splits=n_splits, metric=weighted_mse, verbose=verbose)
+                    n_splits=n_splits,  split_type=split_type,
+                    metric=weighted_mse, verbose=verbose)
     inds = np.arange(X.shape[0])
     np.random.shuffle(inds)
-    automl.fit(X[inds], y[inds], sample_weight=sample_weight[inds])
+    if groups is None:
+        automl.fit(X[inds], y[inds], sample_weight=sample_weight[inds])
+    else:
+        automl.fit(X[inds], y[inds], sample_weight=sample_weight[inds], groups=groups[inds])
     best_est = automl.best_estimator
     return lambda: AutoMLWrap(model=clone(automl.best_model_for_estimator(best_est)))
