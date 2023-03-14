@@ -8,6 +8,8 @@ Mar 13
 
 Mar 14
 : **Lecture**{: .label .label-green } Longitudinal Data and Dynamic Treatment Regime
+  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture19_Dynamic_Treatment_Effects.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture19_Dynamic_Treatment_Effects.pdf)
 
 Mar 16
 : **Homework**{: .label .label-blue } Part I of HW7 Due
