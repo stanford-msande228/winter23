@@ -20,8 +20,10 @@ Mar 14
 - [Meta Learners for Survival Data R-package](https://github.com/som-shahlab/survlearners)
 
 Mar 16
-: **Homework**{: .label .label-blue } Part I of HW7 Due
 : **Lecture**{: .label .label-green } Discussion
+
+Mar 17
+: **Homework**{: .label .label-blue } Part I of HW7 Due
 
 Mar 23
 : **Homework**{: .label .label-blue } Part II of HW7 Due (hard deadline)
