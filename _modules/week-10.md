@@ -10,7 +10,7 @@ Mar 14
 : **Lecture**{: .label .label-green } Longitudinal Data and Dynamic Treatment Regime
   : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture19_Dynamic_Treatment_Effects.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture19_Dynamic_Treatment_Effects.pdf)
-  : [[Demo]](https://github.com/stanford-msande228/winter23/raw/main/DynamicEffects.ipynb)
+  : [[Demo]](https://github.com/stanford-msande228/winter23/blob/main/DynamicEffects.ipynb)
 : ***Further Reading***
 - [Hernan, Robins, Causal Inference, What If](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2022/12/hernanrobins_WhatIf_20dec22.pdf)
 - [Dynamic Partialling Out (G-estimation)](https://arxiv.org/pdf/2002.07285.pdf)
