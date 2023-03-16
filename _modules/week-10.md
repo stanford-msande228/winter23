@@ -21,7 +21,9 @@ Mar 14
 
 Mar 16
 : **Lecture**{: .label .label-green } Discussion
-
+  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture20_Discussion_and_FAQ.pptx)
+  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture20_Discussion_and_FAQ.pdf)
+  
 Mar 17
 : **Homework**{: .label .label-blue } Part I of HW7 Due
 
