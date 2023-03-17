@@ -79,6 +79,8 @@ def fetch_data_generator(*, data, semi_synth=False, simple_synth=False,
 
         abtest = True
         df = pd.read_csv('https://raw.githubusercontent.com/gsbDBI/ExperimentData/master/Charitable/ProcessedData/charitable_withdummyvariables.csv', na_values=-999)
+        df = df.loc[df['treat_ratio2']!=1]
+        df = df.loc[df['treat_ratio3']!=1]
         df = df.drop(['treat_ratio2', 'treat_ratio3', 'treat_size25', 'treat_size50',
                      'treat_size100', 'treat_sizeno', 'treat_askd1', 'treat_askd2', 'treat_askd3',
                      'out_amountgive', 'out_changeamtgive'], axis=1)
